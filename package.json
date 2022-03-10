@@ -1,0 +1,22 @@
+{
+  "name": "form-login-soerendci",
+  "version": "1.0.0",
+  "description": "siehe unten für [🇩🇪 deutsche Anweisungen](#transparente-anmeldung).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-WD-22-D01/form-login-SoerenDCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-WD-22-D01/form-login-SoerenDCI/issues"
+  },
+  "homepage": "https://github.com/FbW-WD-22-D01/form-login-SoerenDCI#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.0.0"
+  }
+}
