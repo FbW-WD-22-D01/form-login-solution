@@ -1,6 +1,6 @@
 siehe unten für [🇩🇪 deutsche Anweisungen](#transparente-anmeldung).
 
-# Transparent Login
+# Transparent Login - SOLUTION
 
 Create and style a form as shown in the mockup below.
 
@@ -20,7 +20,7 @@ Create and style a form as shown in the mockup below.
 
 ---
 
-# Transparente Anmeldung
+# Transparente Anmeldung - LÖSUNG
 
 Erstelle und gestalte ein Formular wie im folgenden Mockup gezeigt.
 
